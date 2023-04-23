@@ -1,0 +1,17 @@
+@media(max-width: 1240px){
+    .container{
+        margin: 0px 30px;
+    }
+    .main__img {
+        max-width: 650px;
+    }
+    .property__container, .main__container, .projects__container, .questions__container, .contacts, .work{
+        margin-top: 100px;
+    }
+    .projectImg__list{
+        justify-content: center;
+    }
+    .projectImg__item {
+        max-width: 370px;
+    }
+}
